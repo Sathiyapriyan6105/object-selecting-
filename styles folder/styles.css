@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    font-family:  Copperplate Gothic Light;
+    font-size: 350%;
+}
+p{
+    font-family: "HP Simplified";
+    font-size: 130%;
+    text-align: left;
+}
+h2{
+    text-align: left;
+    font-size: 230%;
+    font-family:HP Simplified ;
+}
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+
+    
+  }
